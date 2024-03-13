@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">My name is Virupakshi and I'm a enthusiast of Tech and  Software</p>
+<p align="left">My name is Virupakshi and I'm a enthusiast of Tech, Code and  Software</p>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ I am @virupakshi01 <br>📚 I'm currently learning React,Redux<br>🎯 Portfolio -> Virupakshi<br>👀 I’m interested FullStack, Java , FrontEnd</p>
+<p align="left">✨ I am @virupakshi01 <br>📚 I'm currently learning MEAN STACK<br>🎯 Portfolio -> Virupakshi<br>👀 I’m interested FullStack, Java ,Frontend</p>
 
 ###
 
