@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">✨ I am @virupakshi01 <br>📚 I'm currently learning MEAN STACK<br>🎯 Portfolio -> Virupakshi<br>👀 I’m interested FullStack, Java ,Frontend</p>
+<p align="left">✨ I am @virupakshi01 <br>📚 I'm currently learning MEAN STACK<br>🎯 Portfolio -> <a href="https://virupakshi.netlify.app/">Virupakshi</a> <br>👀 I’m interested FullStack, Java ,Frontend</p>
 
 ###
 
